@@ -41,7 +41,9 @@ Asistente virtual que se sincroniza en tiempo real con la agenda, desarrollado p
 Plataforma de IA que utiliza análisis semántico del perfil y contexto docente, desarrollada para generar rutas de formación continua personalizadas.
 
 ### 🔹 [Modelo SARIMAX para predecir el consumo de Agave para producción de tequila](https://script.google.com/macros/s/AKfycbzqCJViknSPOPnFkBw_GxTj4sa8sySa5KkZ55QhU5l2TW-wW7TaNB7dPXsmkiCOIVnQ/exec)
-Modelo predictivo de series de tiempo desarrollado para pronosticar valores futuros considerando tendencias, estacionalidad y el impacto de variables externas.
+Solución de inteligencia predictiva que pronostica el consumo de agave, permitiendo a las empresas tequileras una gestión de inventario más eficiente y la reducción de costos.
+
+
 
 ### 🔹 [AminoLab](https://github.com/TU_REPO_AQUÍ)
 Análisis de aminoácidos en sangre con impedancia electroquímica.
