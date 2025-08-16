@@ -33,7 +33,7 @@ QFB con experiencia directiva en educación pública, transformándome en Data S
 
 ### 🔹 [Agente Educativo LEO – IA Educativa](https://agente-educativo-leo-gxcgxvns77c4kis7zkpyxf.streamlit.app/)
 Agente conversacional que evoluciona con el alumno, desarrollado para apoyar la docencia personalizada.
-https://www.youtube.com/watch?v=ln0lzHZaigQ
+ ▶️ https://www.youtube.com/watch?v=ln0lzHZaigQ
 
 ### 🔹 [Chatbot con IA integrada para Agendar Citas Medicas](https://chatbot-con-llm-de-groq-wyvgt4exfavpsjzzhm9p3d.streamlit.app/)
 Asistente virtual que se sincroniza en tiempo real con la agenda, desarrollado para automatizar la gestión de citas médicas en clínicas.
