@@ -31,7 +31,7 @@ QFB con experiencia directiva en educación pública, transformándome en Data S
 
 ## 📌 Proyectos destacados
 
-### 🔹 [Agente Educativo LEO – IA Educativa](https://agente-educativo-leo-gxcgxvns77c4kis7zkpyxf.streamlit.app/)
+### 🔹 [Agente Educativo LEO – IA Educativa](https://agente-educativo-leo-gxcgxvns77c4kis7zkpyxf.streamlit.app/)[▶️](https://www.youtube.com/watch?v=ln0lzHZaigQ)
 Agente conversacional que evoluciona con el alumno, desarrollado para apoyar la docencia personalizada.
   ▶️ https://www.youtube.com/watch?v=ln0lzHZaigQ
 
