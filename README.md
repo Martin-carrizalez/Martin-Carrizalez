@@ -33,12 +33,11 @@ QFB con experiencia directiva en educación pública, transformándome en Data S
 
 ### 🔹 [Agente Educativo LEO – IA Educativa](https://agente-educativo-leo-gxcgxvns77c4kis7zkpyxf.streamlit.app/)[▶️](https://www.youtube.com/watch?v=ln0lzHZaigQ)
 Agente conversacional que evoluciona con el alumno, desarrollado para apoyar la docencia personalizada.
-  ▶️ https://www.youtube.com/watch?v=ln0lzHZaigQ
-
+ 
 ### 🔹 [Chatbot con IA integrada para Agendar Citas Medicas](https://chatbot-con-llm-de-groq-wyvgt4exfavpsjzzhm9p3d.streamlit.app/)
 Asistente virtual que se sincroniza en tiempo real con la agenda, desarrollado para automatizar la gestión de citas médicas en clínicas.
 
-### 🔹 [Vector Docente – La IA al servicio de la Educación](https://vector-docente.streamlit.app/)
+### 🔹 [Vector Docente – La IA al servicio de la Educación](https://vector-docente.streamlit.app/)[▶️](https://youtu.be/UYNiNrNdKo8)
 Plataforma de IA que utiliza análisis semántico del perfil y contexto docente, desarrollada para generar rutas de formación continua personalizadas.
 
 ### 🔹 [Modelo SARIMAX para predecir el consumo de Agave para producción de tequila](https://script.google.com/macros/s/AKfycbzqCJViknSPOPnFkBw_GxTj4sa8sySa5KkZ55QhU5l2TW-wW7TaNB7dPXsmkiCOIVnQ/exec)
