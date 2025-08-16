@@ -34,7 +34,7 @@ QFB con experiencia directiva en educación pública, transformándome en Data S
 ### 🔹 [AminoLab](https://github.com/TU_REPO_AQUÍ)
 Análisis de aminoácidos en sangre con impedancia electroquímica.
 
-### 🔹 [Agente LEO – IA Educativa](https://github.com/TU_REPO_AQUÍ)
+### 🔹 [Agente LEO – IA Educativa](https://agente-educativo-leo-gxcgxvns77c4kis7zkpyxf.streamlit.app/)
 Agente conversacional que evoluciona con el alumno, desarrollado para apoyar la docencia personalizada.
 
 ### 🔹 [Banco Biométrico UDG](https://github.com/TU_REPO_AQUÍ)
